@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a first-year student at The Hague University of Applied Sciences, pursing the Bachelor of Applied Computer Science, with a passion for computer science and software development that goes well beyond the classroom. From designing and teaching a 14-week Python curriculum to interning at an AI tech company, I am constantly looking for hands-on ways to grow.
+I'm a first-year student at The Hague University of Applied Sciences, pursing the Bachelor of Applied Computer Science, with a passion for computer science and software development that goes well beyond the classroom. From designing and teaching multiple 8 weeks Python curriculum to interning at an AI tech company, I am constantly looking for hands-on ways to grow.
 
 I'm someone who learns by doing, collaborates naturally, and brings the same energy to code as I do to volleyball, ping pong, or finding the perfect outfit.
 
