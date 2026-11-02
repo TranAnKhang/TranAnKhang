@@ -2,7 +2,7 @@
 
 # Tran An Khang
 
-*Aspiring Software Engineer · Ho Chi Minh City, Vietnam*
+*Aspiring Software Engineer · The Hague, Netherlands*
 
 [![Email](https://img.shields.io/badge/Email-ankhangtran19012008%40gmail.com-black?style=flat-square&logo=gmail)](mailto:ankhangtran19012008@gmail.com)
 
@@ -14,7 +14,6 @@
 
 I'm a first-year student at The Hague University of Applied Sciences, pursing the Bachelor of Applied Computer Science, with a passion for computer science and software development that goes well beyond the classroom. From designing and teaching multiple 8 weeks Python curriculum to interning at an AI tech company, I am constantly looking for hands-on ways to grow.
 
-I'm someone who learns by doing, collaborates naturally, and brings the same energy to code as I do to volleyball, ping pong, or finding the perfect outfit.
 
 ---
 
@@ -35,6 +34,7 @@ Designed and delivered a 14-week beginner Python curriculum. 80% of students shi
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 
 ---
@@ -54,7 +54,6 @@ IB Diploma Programme · 2024 – 2026
 
 - 🏐 Volleyball · 🏓 Ping Pong · ⚽ Football · 🏀 Basketball · ♟️ Chess
 - 🐍 Building random Python projects for fun
-- 👕 Documenting fits & making outfit moodboards
 - 🎮 Valorant & Minecraft
 
 ---
